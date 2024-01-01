@@ -1,3 +1,3 @@
-# 伊城 慎之介
+# 伊城 慎之介のホームページへようこそ
 
-[ホームページ](https://math-ishiro.github.io/TopJP.html)
+[トップページ（日本語版）](https://math-ishiro.github.io/TopJP.html)
