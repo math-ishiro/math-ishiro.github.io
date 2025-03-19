@@ -1,14 +1,50 @@
-<h1> 伊城慎之介</h1>
+<header> 
+  <h1> 伊城慎之介</h1> 
+  <br>
+  群馬工業高等専門学校　助教
+  <br>  
+  連絡先：ishiro あっと gunma-ct.ac.jp
+</header>
+
 
 <hr>
 
-<a href="https://math-ishiro.github.io/CVJP.html">履歴書</a>
 
-<a href="https://math-ishiro.github.io/PapersJP.html">論文</a>
+<div class="wrap">
+  <div class="box box1"> <a href="https://math-ishiro.github.io/CVJP.html">履歴書</a> </div>
+  <div class="box box2"> <a href="https://math-ishiro.github.io/PapersJP.html">論文</a> </div>
+  <div class="box box3"> <a href="https://math-ishiro.github.io/TalksJP.html">講演</a> </div>
+  <div class="box box4"> <a href="https://math-ishiro.github.io/Others.html">その他</a> </div>
+</div>
 
-<a href="https://math-ishiro.github.io/TalksJP.html">講演</a>
+  .box1{
+  background:red;
+}
+.box2{
+  background:blue;
+}
+.box3{
+  background:green;
+}
+.box4{
+  background:green;
+}
+.wrap{
+  display:flex;
+}
+.box{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  width:100px;
+  height:100px;
+}
 
-<a href="https://math-ishiro.github.io/Others.html">その他</a>
+
+
+
+
+
 
 <hr>
 
