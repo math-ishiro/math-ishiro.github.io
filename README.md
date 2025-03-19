@@ -1,15 +1,23 @@
-<header> 
+<!DOCTYPE html> 
+
+<html lang="ja">
+
+<meta charset="UTF-8">
+
+<head> 
   <h1> 伊城慎之介</h1> 
-  <br>
-  群馬工業高等専門学校　助教
-  <br>  
-  連絡先：ishiro あっと gunma-ct.ac.jp
-</header>
+  <div class="left"> 
+    群馬工業高等専門学校　助教
+    <br>  
+    連絡先：ishiro (at) gunma-ct.ac.jp
+    ※(at)はアットマークに置き換えてください．
+  </div>
+</head>
 
 
 <hr>
-
-
+<body>
+  
 <div class="wrap">
   <div class="box box1"> <a href="https://math-ishiro.github.io/CVJP.html">履歴書</a> </div>
   <div class="box box2"> <a href="https://math-ishiro.github.io/PapersJP.html">論文</a> </div>
@@ -17,28 +25,7 @@
   <div class="box box4"> <a href="https://math-ishiro.github.io/Others.html">その他</a> </div>
 </div>
 
-  .box1{
-  background:red;
-}
-.box2{
-  background:blue;
-}
-.box3{
-  background:green;
-}
-.box4{
-  background:green;
-}
-.wrap{
-  display:flex;
-}
-.box{
-  display:flex;
-  justify-content:center;
-  align-items:center;
-  width:100px;
-  height:100px;
-}
+
 
 
 
@@ -56,5 +43,8 @@
 <li> 対数的正則局所環の環論的な性質（因子類群，Chow群，α-平坦性）</li>
 <li> 局所コホモロジー </li>
 </ul>
+</body>
 
-
+div.left {
+    text-align: left; 
+}
