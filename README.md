@@ -20,7 +20,7 @@
   <div class="box box1"> <a href="https://math-ishiro.github.io/CVJP.html">履歴書</a> </div>
   <div class="box box2"> <a href="https://math-ishiro.github.io/PapersJP.html">論文</a> </div>
   <div class="box box3"> <a href="https://math-ishiro.github.io/TalksJP.html">講演</a> </div>
-  <div class="box box4"> <a href="https://math-ishiro.github.io/Educations.html">教育</a> </div>
+  <div class="box box4"> <a href="https://math-ishiro.github.io/Education.html">教育</a> </div>
   <div class="box box5"> <a href="https://math-ishiro.github.io/Others.html">その他</a> </div>
 </div>
 
