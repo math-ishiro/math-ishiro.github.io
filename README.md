@@ -3,7 +3,6 @@
 <meta charset="UTF-8">
 
 
-
 <head> 
   <h1> 伊城慎之介</h1> 
   <div class="left"> 
@@ -13,7 +12,6 @@
     ※(at)はアットマークに置き換えてください．
   </div>
 </head>
-
 
 <hr>
 <body>
@@ -27,7 +25,21 @@
 </div>
 
 
-
+<style>
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+.btn:hover {
+  background-color: #0056b3;
+}
+</style>
 
 
 
