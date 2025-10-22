@@ -2,9 +2,6 @@
 
 <meta charset="UTF-8">
 
-h1 {
-    display: none;
-}
 
 
 <head> 
