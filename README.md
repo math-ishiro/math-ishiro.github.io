@@ -25,26 +25,6 @@
 </div>
 
 
-<style>
-.btn {
-  display: inline-block;
-  padding: 10px 20px;
-  margin: 5px;
-  background-color: #007bff;
-  color: white;
-  text-decoration: none;
-  border-radius: 5px;
-  transition: background-color 0.3s;
-}
-.btn:hover {
-  background-color: #0056b3;
-}
-</style>
-
-
-
-
-
 
 <hr>
 
