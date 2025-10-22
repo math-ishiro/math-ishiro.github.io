@@ -1,2 +1,9 @@
 plugins:
  - jekyll-sitemap
+
+math-ishiro.github.io/
+├── README.md
+├── _config.yml
+├── resume.pdf
+├── research.html
+└── ...その他のファイル...
