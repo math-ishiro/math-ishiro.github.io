@@ -2,6 +2,8 @@
 
 <meta charset="UTF-8">
 
+title: ""
+
 <head> 
   <h1> 伊城慎之介</h1> 
   <div class="left"> 
