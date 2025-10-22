@@ -2,7 +2,10 @@
 
 <meta charset="UTF-8">
 
-title: ""
+h1 {
+    display: none;
+}
+
 
 <head> 
   <h1> 伊城慎之介</h1> 
